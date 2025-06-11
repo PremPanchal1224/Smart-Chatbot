@@ -1,15 +1,37 @@
-# React + Vite
+# 🤖 Smart Chatbot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Smart Chatbot is a versatile AI-powered web application that enables users to engage in real-time conversations, ask questions about uploaded images, and generate images from natural language prompts.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+### 💬 Chat with Smart AI Bot
+- Have real-time conversations with an intelligent chatbot.
+- Ask questions and receive instant, coherent responses powered by Google Gemini API.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🖼️ Image Upload & Question Answering
+- Upload an image and ask context-specific questions.
+- The bot analyzes the image and provides relevant answers using advanced AI vision models.
+
+### 🎨 Image Generation from Prompt
+- Enter a text prompt.
+- The bot uses Stable Diffusion XL to generate realistic images based on your description.
+
+---
+
+## 🧰 Tech Stack
+
+### 🧠 AI Services
+- **Google Gemini API** – Natural language understanding and chat generation
+- **Hugging Face API** – Image generation with **Stable Diffusion XL**
+
+### 🌐 Frontend & Deployment
+- **React** – Component-based UI development
+- **Vite** – Lightning-fast build tool for modern web apps
+- **ESLint** – Code quality and linting for JavaScript
+
+
 
 ## 🎥 Demo Video
 
