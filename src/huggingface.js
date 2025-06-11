@@ -4,7 +4,7 @@ export async function query(data) {
 		  "https://router.huggingface.co/hf-inference/models/ZB-Tech/Text-to-Image",
 		  {
 			 headers: {
-				Authorization: "Bearer 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",
+				Authorization: "Your_HuggingFace_API_Key", // Replace with your actual API key
 				"Content-Type": "application/json",
 			 },
 			 method: "POST",
