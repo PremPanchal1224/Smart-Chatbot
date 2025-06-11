@@ -13,7 +13,6 @@ If you are developing a production application, we recommend using TypeScript an
 
 ## 🎥 Demo Videos
 
-- ▶️ [**Project Demo Video**](https://drive.google.com/file/d/1YK4EIBRXKo-nGgSegUEmYy0glS_fD-eU/view?usp=sharing) – Showcasing the working of the mobile app  
-- 🎙️ [**Chatbot PPT + Live Implementation**](https://drive.google.com/file/d/1PslgYtlaCGv94NOmqET4PIumYa01zq3f/view?usp=sharing) – Explains the concept with a live demo
+- ▶️ [**Chatbot Presentation with Live Implementation**](https://drive.google.com/file/d/1PslgYtlaCGv94NOmqET4PIumYa01zq3f/view?usp=sharing) – A comprehensive walkthrough of the chatbot architecture, supported by a real-time demonstration of its functionalities.
 
----
+
